@@ -70,8 +70,10 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Content Include="Script DB\Script DB - ThomasGregTest.sql" />
+    <Content Include="Script DB\Script Table - Cliente - ThomarGregTest.sql" />
+    <Content Include="Script DB\Script Table - Logradouro - ThomasGregTest.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
