@@ -1,0 +1,6 @@
+namespace ThomasGregTest.API.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
